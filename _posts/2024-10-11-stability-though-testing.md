@@ -7,7 +7,7 @@ categories: jekyll update
 
 ## Stability
 The more I reflect on life the more I value stability. 
-My current philosophy regarding stability was largely influence by my time learning Yagyu.
+My current philosophy regarding stability was largely influenced by my time learning Yagyu.
 Yagyu is a Japanese martial art and one of the core principles is: We do not lose, we may not win, but we will not lose.
 
 I found stability in this context means:
