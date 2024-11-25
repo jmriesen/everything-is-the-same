@@ -60,5 +60,11 @@ Personally I have found the following techniques useful:
     - Write a minimal failing unit test.
     - Write the minimum amount of code required to get all unit tests to pass.
     - Refactor your code.
-    By binding process of writing application and test code together in this incremental approach we ensure that the goals of our application code and tests are aligned.
 
+    TDD can be viewed as the programmer's Double-Entry Bookkeeping.
+    Any chance in the applications behavior, a "transaction", is recorded in two locations, a chance in the application code, and a change in the unit test code.
+    Failing unit tests indicate that behavior we specified in our unit test and application code are in disagreement, indicating that the developer has introduced a bug into either the application code **and/or** the test code. 
+
+    It is worth calling out that if you are using this approach, failing unit tests are not TODO reminders.
+    Unit tests document **what you code dose, not what it should do**. 
+    If you need to track the discrepancy between what the system should do, and what it is does I recommend looking into acceptance testing and task management systems.
