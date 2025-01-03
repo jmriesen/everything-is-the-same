@@ -62,9 +62,4 @@ Personally I have found the following techniques useful:
     - Refactor your code.
 
     TDD can be viewed as the programmer's Double-Entry Bookkeeping.
-    Any chance in the applications behavior, a "transaction", is recorded in two locations, a chance in the application code, and a change in the unit test code.
-    Failing unit tests indicate that behavior we specified in our unit test and application code are in disagreement, indicating that the developer has introduced a bug into either the application code **and/or** the test code. 
-
-    It is worth calling out that if you are using this approach, failing unit tests are not TODO reminders.
-    Unit tests document **what you code dose, not what it should do**. 
-    If you need to track the discrepancy between what the system should do, and what it is does I recommend looking into acceptance testing and task management systems.
+    Any chance in the applications behavior is recorded in two locations, in the application code, in the unit test code.
