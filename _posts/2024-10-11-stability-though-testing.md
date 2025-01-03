@@ -45,7 +45,7 @@ Personally I have found the following techniques useful:
 
     Mutation checks how well our unit tests define the behavior of a systems.
 
-    This is accomplished by mutating (changing a || to a &&, replacing a < with a <= extra) the application code before running the unit test suite.
+    This is accomplished by mutating the application code (replacing `and` with `or`, `<=` with `<` etc) before running the unit test suite.
     A code base passes Mutation Testing if all the mutations result in a failing unit test, 
     i.e. your unit tests can catch all the generated mutations.
 
