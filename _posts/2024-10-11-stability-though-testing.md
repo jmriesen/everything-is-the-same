@@ -21,11 +21,7 @@ I have found this notion of stability to be quite meaningful when applied to sof
 3. Regardless of what modifications I am making, I work in such a way that I remain stable.
 
 The big draw I see to cultivating stability is point #3, being able to move with confidence and correctness.
-
-In both contexts stability is incredibly empowering, but is impotent to call out that stability is not an all or nothing proposition.
-Stability is something that is cultivated and grows in a positive feedback loop.
-
-We cultivate stability by working on our foundation, learning how to be safe, and learning to know if we are in danger.
+Stability is the foundation on top of which we can try new things and grow, without fear of endangering what we already have.
 
 ## Programming and Stability
 There is one big difference between being a martial artist and an engineer: engineers build tools.
