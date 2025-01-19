@@ -7,8 +7,8 @@ categories: jekyll update
 
 ## Stability
 The more I reflect on life the more I value stability. 
-My current philosophy regarding stability was largely influenced by my time learning Yagyu.
-Yagyu is a Japanese martial art and one of the core principles is: We do not lose, we may not win, but we will not lose.
+My current philosophy regarding stability was influenced by my time learning Yagyu.
+Yagyu is a Japanese martial art and one of the core principles is, "We do not lose: we may not win, but we will not lose."
 
 I found stability in this context means:
 1. I am safe.
@@ -58,4 +58,4 @@ Personally I have found the following techniques useful:
     - Refactor your code.
 
     TDD can be viewed as the programmer's Double-Entry Bookkeeping.
-    Any chance in the applications behavior is recorded in two locations, in the application code, in the unit test code.
+    Any change in the applications behavior is recorded in two locations, in the application code, and in the unit test code.
