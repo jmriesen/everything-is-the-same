@@ -17,14 +17,34 @@ In collage I studied Math, and that experiences taught me that one of the best w
 I intend for this project to be a space where I can wrestle with ideas, and figure out what concept's stand up to scrutiny.
 
 # Everything is the same
-"Everything is the same" is a phrase my former martial arts instructor liked to say. 
-Regardless of whether we were using the sward bo staff or fighting hand to hand, the core concepts and stances remained the same.
-However beyond that after discussing my hobby, ballroom dance, with him we found a number of connections between the two disciplines.
-After all the core of both martial arts and ballroom is moving your body with control and stability.
+My former martial arts instructor repeatedly emphasized that at is core "Everything is the same." 
+Regardless of whether we were using the sward, bo staff or fighting hand to hand, the core concepts and stances remained the same.
+However this concept extends beyond just martial arts.
 
-I have found that the core of problems tends not to be unique.
-There are throughlines from martial arts to ballroom to self help books to books on code refactoring.
+Core concepts and parallels can be pulled from domains that initially seem vary desperate.
+I have found connection between:
+- A [self help books](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People?from_search=true&from_srp=true&qid=iq7dwHp4UL&rank=1)
+- A books on [Working Effectively with legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
+- Videos on how to organization your home (TODO get the channel name from mother)
+- And a [treatise on martial arts techniques](https://www.goodreads.com/book/show/50644468-through-dragonfly-eyes).
 
-At the end the day most domain specific problems are just a manifestation of a more general challenge. Ie. "Everything is the same"
+As humans we like to categories things, break them down into neat little domains. 
+We divide things into:
+- School subjects
+    - The sciences
+    - Mathematics
+    - The arts
+- Type of programming
+    - Frontend
+    - Backend
+    - Embodied
+    - Performance
+- Types of media
+    - Informational
+    - Entertainment
+    - Fiction
+    - Non-fiction
 
-
+But at the end of the day, these things just exist in the universe, independent of human categorization.
+Categorizations are just a useful tool to help us comprehend, describe, and talk about the world. 
+They are not intrinsic to the universe, to often people forget that (including myself) and take the dominated categorization as the only one.
