@@ -9,10 +9,10 @@ permalink: /about/
 After reading [You're Not Qualified To Have An Opinion On TDD](https://blog.boot.dev/clean-code/youre-not-qualified-for-tech-opinions/)
 I realized that I needed to do a better job of testing the ideas I am exposed to.
 
-I enjoy listening to conference talks and speculating about new ideas and practices, most of witch sound great.
+I enjoy listening to conference talks and speculating about new ideas and practices, most of which sound great.
 But for most of these ideas I lacked the experience to say if they will actually be useful in practice.
 
-In collage I studied Math, and that experiences taught me that one of the best ways of exploring an idea, is to write your thoughts down and discuss them with others.
+In college I studied math, and that experiences taught me that one of the best ways to explore an idea is to write your thoughts down and discuss them with others.
 
 I intend for this project to be a space where I can wrestle with ideas, and figure out what concept's stand up to scrutiny.
 
@@ -28,7 +28,7 @@ I have found connection between:
 - Videos on how to organization your home (TODO get the channel name from mother)
 - And a [treatise on martial arts techniques](https://www.goodreads.com/book/show/50644468-through-dragonfly-eyes).
 
-As humans we like to categories things, break them down into neat little domains. 
+As humans we like to categorize things, to break them down into neat little domains. 
 We divide things into:
 - School subjects
     - The sciences
@@ -46,5 +46,5 @@ We divide things into:
     - Non-fiction
 
 But at the end of the day, these things just exist in the universe, independent of human categorization.
-Categorizations are just a useful tool to help us comprehend, describe, and talk about the world. 
-They are not intrinsic to the universe, to often people forget that (including myself) and take the dominated categorization as the only one.
+Categorizations are just a useful tool to help us comprehend, describe, discuss the world. 
+They are not intrinsic to the universe. T0o often people (including me) forget that, and take the dominant categorization as the only one.
