@@ -46,5 +46,5 @@ We divide things into:
     - Non-fiction
 
 But at the end of the day, these things just exist in the universe, independent of human categorization.
-Categorizations are just a useful tool to help us comprehend, describe, discuss the world. 
-They are not intrinsic to the universe. T0o often people (including me) forget that, and take the dominant categorization as the only one.
+Categorizations are just a useful tool to help us comprehend, describe, and discuss the world. 
+They are not intrinsic to the universe. Too often people (including me) forget that, and take the dominant categorization as the only one.
