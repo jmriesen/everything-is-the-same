@@ -52,4 +52,18 @@ NOTE: Fuzz testing is a subset of property based testing where you are asserting
 1. There are no invalid memory access.
 2. The program does not crash.
 
+## "The algorithm" and self determination
+### [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)
+The big social media companies are advertising agencies.
+The goal of an advertising agency is to manipulate your thoughts and emotions.
+The algorithm connects you to authoritative voices, not necessarily truthful/correct ones.
+Audiences want to see someone they recognize over the most qualified individual.
+Parasocial relationships. Fan of someone's work vs fan of someone.
 
+###  [Algorithms are breaking how we think](https://www.youtube.com/watch?v=QEJpZjg8GuA)
+Are you ok with delegating what information you see/opinions you are exposed to?
+My answering is no, my opinions and thoughts are what I know are core aspects of who I am.
+I am not ok outsourcing them.
+
+## Un-Categorized
+### [Clutching at Random Straws](https://www.youtube.com/watch?v=sf5OrthVRPA)
