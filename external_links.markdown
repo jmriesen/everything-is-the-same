@@ -67,3 +67,4 @@ I am not ok outsourcing them.
 
 ## Un-Categorized
 ### [Clutching at Random Straws](https://www.youtube.com/watch?v=sf5OrthVRPA)
+### [ Getting Things Done (GTD) by David Allen - Animated Book Summary And Review ](https://www.youtube.com/watch?v=gCswMsONkwY)
