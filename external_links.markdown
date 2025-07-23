@@ -27,6 +27,7 @@ Reuse is great for highly standardized components, however "If it is a core busi
 I often think back to this article, if your dependencies are driving what you can and can't do, if they have have bled into your core, the world is acting on you, rather than you acting on the world.
 Note, this principle is not limited to software.
 
+
 ## Testing
 ### [Mutation Testing in Python • Austin Bingham • GOTO 2015](https://www.youtube.com/watch?v=jwB3Nn4hR1o)
 The first 20 minutes of the above video is a good introduction to the what/why of mutation testing.
@@ -68,3 +69,9 @@ I am not ok outsourcing them.
 ## Un-Categorized
 ### [Clutching at Random Straws](https://www.youtube.com/watch?v=sf5OrthVRPA)
 ### [ Getting Things Done (GTD) by David Allen - Animated Book Summary And Review ](https://www.youtube.com/watch?v=gCswMsONkwY)
+###  [Agile Manifesto](https://agilemanifesto.org/)
+### Premature optimization
+```
+The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming. 
+``` Variant in Knuth, "Structured Programming with Goto Statements". Computing Surveys 6:4 (December 1974), pp. 261–301, §1. doi:10.1145/356635.356640
+
