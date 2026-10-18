@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stability though testing"
+title:  "Stability Through Testing"
 date:   2025-01-19 11:36:00 -0500
 categories: jekyll update
 ---
@@ -26,20 +26,20 @@ Stability is the foundation on top of which we can try new things and grow, with
 ## Programming and Stability
 There is one big difference between being a martial artist and an engineer: engineers build tools.
 
-This means we can we build tools that help us cultivate stability.
+This means we can build tools that help us cultivate stability.
 In particular we can write unit tests to help us *know* that our code is correct.
 Additionally we can use Continuous Integration / Continuous Delivery (CICD) to re-certify this knowledge every time we make a change.
 
 However, this does bring up another problem: how do we know that the unit tests are correct?
 ## Meta Testing Techniques
 ### Testing the tests
-It is impotent to call out that meta testing techniques **do not** verify the correctness of our application code.
+It is important to call out that meta testing techniques **do not** verify the correctness of our application code.
 The goal of meta testing is to validate that our unit tests exercise the code under test in some meaningful way. 
 
 Personally I have found the following techniques useful: 
 - Mutation Testing
 
-    Mutation checks how well our unit tests define the behavior of a systems.
+    Mutation testing checks how well our unit tests define the behavior of a system.
 
     This is accomplished by mutating the application code (replacing `and` with `or`, `<=` with `<` etc) before running the unit test suite.
     A code base passes Mutation Testing if all the mutations result in a failing unit test, 
@@ -47,7 +47,7 @@ Personally I have found the following techniques useful:
 
 - Code Coverage 
 
-    Code coverage involves measure what lines of application code are executed when the unit tests are run.
+    Code coverage involves measuring what lines of application code are executed when the unit tests are run.
 
     This helps identify code that is not under test.
 - Test Driven Development.
@@ -58,4 +58,4 @@ Personally I have found the following techniques useful:
     - Refactor your code.
 
     TDD can be viewed as the programmer's Double-Entry Bookkeeping.
-    Any change in the applications behavior is recorded in two locations, in the application code, and in the unit test code.
+    Any change in the application's behavior is recorded in two locations, in the application code, and in the unit test code.
